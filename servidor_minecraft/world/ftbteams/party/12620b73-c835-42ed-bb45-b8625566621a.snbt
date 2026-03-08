@@ -1,0 +1,17 @@
+{
+	id: "12620b73-c835-42ed-bb45-b8625566621a"
+	type: "party"
+	owner: "0f44fecd-5028-3ad1-be07-c2251ae59810"
+	ranks: {
+		0f44fecd-5028-3ad1-be07-c2251ae59810: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "omg"
+		"ftbteams:description": "ja"
+		"ftbteams:color": "#C9FFBC"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1772916301805L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Sarydark_23\"}]}" }]
+	extra: { }
+}

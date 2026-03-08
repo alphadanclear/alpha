@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "aa46c5cedce04b2082726d98fdccb667"
+	name: "tale#aa46c5ce"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

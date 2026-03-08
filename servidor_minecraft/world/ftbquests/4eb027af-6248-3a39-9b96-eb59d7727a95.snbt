@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "4eb027af62483a399b96eb59d7727a95"
+	name: "Fernanby2002#4eb027af"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

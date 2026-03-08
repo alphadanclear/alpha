@@ -1,0 +1,15 @@
+{
+	id: "04576667-0da4-330f-b8f7-e645a51a4031"
+	type: "player"
+	player_name: "DrDuumboZ"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "DrDuumboZ"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59B0"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

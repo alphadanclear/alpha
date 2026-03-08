@@ -1,0 +1,5 @@
+
+#Common Settings
+[common]
+	enabledItems = ["sophisticatedbackpacks:blasting_upgrade|true", "sophisticatedstorage:filter_upgrade|true", "sophisticatedstorage:basic_to_gold_tier_upgrade|true", "sophisticatedstorage:advanced_alchemy_upgrade|true", "sophisticatedstorage:barrel|true", "sophisticatedstorage:storage_io|true", "sophisticatedstorage:stack_upgrade_tier_4|true", "sophisticatedbackpacks:advanced_filter_upgrade|true", "sophisticatedstorage:advanced_filter_upgrade|true", "sophisticatedstorage:shulker_box|true", "sophisticatedbackpacks:iron_backpack|true", "sophisticatedbackpacks:auto_smoking_upgrade|true"]
+

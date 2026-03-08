@@ -1,0 +1,20 @@
+{
+	id: "0cfa321f-004f-41fb-901d-29fc5ecbfc5b"
+	type: "party"
+	owner: "04576667-0da4-330f-b8f7-e645a51a4031"
+	ranks: {
+		04576667-0da4-330f-b8f7-e645a51a4031: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Paputeam"
+		"ftbteams:description": ""
+		"ftbteams:color": "#500A08"
+		"ftbteams:free_to_join": 1b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1772916339134L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"DrDuumboZ\"}]}" }
+		{ from: "04576667-0da4-330f-b8f7-e645a51a4031", date: 1772916355671L, text: "{\"text\":\"xd\"}" }
+	]
+	extra: { }
+}

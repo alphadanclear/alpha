@@ -1,0 +1,15 @@
+{
+	id: "e6f632f1-a64e-3f12-96eb-f7ab3681391b"
+	type: "player"
+	player_name: "Lawrencexf"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Lawrencexf"
+		"ftbteams:description": ""
+		"ftbteams:color": "#D459FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "cee8ac8f002131d19e49671eb2cf9bd8"
+	name: "Sodio#cee8ac8f"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

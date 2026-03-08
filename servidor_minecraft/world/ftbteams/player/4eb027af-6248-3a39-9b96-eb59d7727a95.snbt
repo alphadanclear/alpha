@@ -1,0 +1,17 @@
+{
+	id: "4eb027af-6248-3a39-9b96-eb59d7727a95"
+	type: "player"
+	player_name: "Fernanby2002"
+	ranks: {
+		4eb027af-6248-3a39-9b96-eb59d7727a95: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Fernanby2002"
+		"ftbteams:description": ""
+		"ftbteams:color": "#AC59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "12620b73c83542edbb45b8625566621a"
+	name: "omg#12620b73"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

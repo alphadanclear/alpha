@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "0f44fecd50283ad1be07c2251ae59810"
+	name: "Sarydark_23#0f44fecd"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "0cfa321f004f41fb901d29fc5ecbfc5b"
+	name: "Paputeam#0cfa321f"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

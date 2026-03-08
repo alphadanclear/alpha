@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "8708e787adb133a694c1d4c563ae7273"
+	name: "PatoManip#8708e787"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

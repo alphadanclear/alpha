@@ -1,0 +1,40 @@
+{
+	id: "aa46c5ce-dce0-4b20-8272-6d98fdccb667"
+	type: "party"
+	owner: "8708e787-adb1-33a6-94c1-d4c563ae7273"
+	ranks: {
+		8708e787-adb1-33a6-94c1-d4c563ae7273: "owner"
+		e6f632f1-a64e-3f12-96eb-f7ab3681391b: "member"
+		04576667-0da4-330f-b8f7-e645a51a4031: "ally"
+		cee8ac8f-0021-31d1-9e49-671eb2cf9bd8: "member"
+		0f44fecd-5028-3ad1-be07-c2251ae59810: "ally"
+	}
+	properties: {
+		"ftbteams:display_name": "tale"
+		"ftbteams:description": "o"
+		"ftbteams:color": "#CAFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1772916403049L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"PatoManip\"}]}" }
+		{ from: "8708e787-adb1-33a6-94c1-d4c563ae7273", date: 1772916414538L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Sodio\"}]}" }
+		{ from: "8708e787-adb1-33a6-94c1-d4c563ae7273", date: 1772916417862L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"Sarydark_23\"}]}" }
+		{ from: "8708e787-adb1-33a6-94c1-d4c563ae7273", date: 1772916421257L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"DrDuumboZ\"}]}" }
+		{ from: "8708e787-adb1-33a6-94c1-d4c563ae7273", date: 1772916434736L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Sodio\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1772916438861L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Sodio\"}]}" }
+		{ from: "8708e787-adb1-33a6-94c1-d4c563ae7273", date: 1772916512906L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.remove_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"DrDuumboZ\"}]}" }
+		{ from: "8708e787-adb1-33a6-94c1-d4c563ae7273", date: 1772916514552L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.remove_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"Sarydark_23\"}]}" }
+		{ from: "8708e787-adb1-33a6-94c1-d4c563ae7273", date: 1772916520143L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.remove_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"Sarydark_23\"}]}" }
+		{ from: "8708e787-adb1-33a6-94c1-d4c563ae7273", date: 1772916520143L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.remove_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"DrDuumboZ\"}]}" }
+		{ from: "8708e787-adb1-33a6-94c1-d4c563ae7273", date: 1772916628396L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.remove_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"Sarydark_23\"}]}" }
+		{ from: "8708e787-adb1-33a6-94c1-d4c563ae7273", date: 1772916628396L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.remove_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"DrDuumboZ\"}]}" }
+		{ from: "8708e787-adb1-33a6-94c1-d4c563ae7273", date: 1772916638341L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.remove_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"Sarydark_23\"}]}" }
+		{ from: "8708e787-adb1-33a6-94c1-d4c563ae7273", date: 1772916638341L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.remove_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"DrDuumboZ\"}]}" }
+		{ from: "8708e787-adb1-33a6-94c1-d4c563ae7273", date: 1772916646892L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"Sarydark_23\"}]}" }
+		{ from: "8708e787-adb1-33a6-94c1-d4c563ae7273", date: 1772916646892L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"DrDuumboZ\"}]}" }
+		{ from: "8708e787-adb1-33a6-94c1-d4c563ae7273", date: 1772923328754L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Lawrencexf\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1772923330962L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Lawrencexf\"}]}" }
+	]
+	extra: { }
+}
